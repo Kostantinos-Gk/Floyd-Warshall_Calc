@@ -1,6 +1,6 @@
 # Floyd-Warshall_Calc
 
-**Floyd-Warshall Algorithm Calculator (R)
+##Floyd-Warshall Algorithm Calculator (R)
 
 This project is an exercise for the course "Graph Theory". It is a calculator which runs the Floyd-Warshall
 algorithm in order to find the shortest paths from all nobes to all nobes(all-to-all).
